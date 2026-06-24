@@ -1,17 +1,77 @@
 [
   {
-    "title": "🍆 Suck nigga DICK",
-    "description": "Please be good boys! Thanks.",
+    "title": "🚀 Launcher v1.1 Released",
+    "description": "Major performance improvements, reduced startup time, and a refreshed user interface for a smoother experience.",
+    "date": "2026-06-24"
+  },
+  {
+    "title": "🎉 Double XP Weekend",
+    "description": "All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster.",
     "date": "2026-06-23"
   },
   {
-    "title": "🎉 New Server Event",
-    "description": "Double XP weekend is now live!",
+    "title": "🛡️ Anti-Cheat Improvements",
+    "description": "Several backend security improvements have been deployed to provide a fairer gameplay environment.",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "🏆 Community Challenge",
+    "description": "Participate in this month's community challenge and compete for exclusive in-game rewards and recognition.",
+    "date": "2026-06-21"
+  },
+  {
+    "title": "🌍 New DayZ Server Online",
+    "description": "A new high-performance DayZ server located in the region is now available with improved latency and stability.",
     "date": "2026-06-20"
   },
   {
-    "title": "🎉 New Launcher Event",
-    "description": "Double Coin weekend is now live!",
-    "date": "2026-06-20"
+    "title": "🧟 Project Zomboid Expansion",
+    "description": "Additional map zones and survival objectives have been added to our featured Project Zomboid server.",
+    "date": "2026-06-19"
+  },
+  {
+    "title": "💰 Double Coin Event",
+    "description": "Earn twice as many coins from missions, events, and daily activities for a limited time.",
+    "date": "2026-06-18"
+  },
+  {
+    "title": "📢 Maintenance Complete",
+    "description": "Scheduled maintenance has been completed successfully and all services are back online.",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "🎁 Summer Rewards Program",
+    "description": "Log in daily during the summer event to claim rewards, boosts, and exclusive cosmetic items.",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "⚡ Faster Downloads Available",
+    "description": "Launcher content delivery has been optimized, resulting in significantly faster update downloads.",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "👥 Referral System Launched",
+    "description": "Invite your friends to the platform and earn bonus rewards when they become active players.",
+    "date": "2026-06-14"
+  },
+  {
+    "title": "🔧 Hotfix 1.1.1 Released",
+    "description": "Fixed several issues reported by the community, including crashes and launcher synchronization problems.",
+    "date": "2026-06-13"
+  },
+  {
+    "title": "🏠 New Safe Zone Added",
+    "description": "A new safe trading zone has been introduced to improve player interactions and community events.",
+    "date": "2026-06-12"
+  },
+  {
+    "title": "📈 Record Player Count",
+    "description": "The platform reached its highest concurrent player count this month. Thank you for your support.",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "❤️ Thank You Survivors",
+    "description": "We appreciate every member of our community. More updates, events, and content are coming soon.",
+    "date": "2026-06-10"
   }
 ]
