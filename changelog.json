@@ -13,5 +13,15 @@
     "title": "🎉 New Leaderboard System",
     "description": "New leaderboard system is live now, check out Leaderboard page!",
     "date": "2026-06-20"
-  }
+  },
+  {
+  "title": "⚡ Faster Launcher Startup",
+  "description": "Startup times have been reduced significantly, helping players get into their favorite servers quicker.",
+  "date": "2026-06-17"
+  },
+  {
+  "title": "🔒 Security Improvements",
+  "description": "Several backend improvements have been deployed to enhance account security and service stability. Sorry for things happened earlier, we fixed the bugs that users reported.",
+  "date": "2026-06-16"
+  },
 ]
