@@ -1,77 +1,77 @@
 [
-  {
-    "title": "🚀 Launcher v1.1 Released",
-    "description": "Major performance improvements, reduced startup time, and a refreshed user interface for a smoother experience.",
-    "date": "2026-06-24"
-  },
-  {
-    "title": "🎉 Double XP Weekend",
-    "description": "All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster. All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster. All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster. All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster. All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster. \n All supported servers are running a Double XP event throughout the weekend. Gather your friends and level up faster.",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "🛡️ Anti-Cheat Improvements",
-    "description": "Several backend security improvements have been deployed to provide a fairer gameplay environment.",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "🏆 Community Challenge",
-    "description": "Participate in this month's community challenge and compete for exclusive in-game rewards and recognition.",
-    "date": "2026-06-21"
-  },
-  {
-    "title": "🌍 New DayZ Server Online",
-    "description": "A new high-performance DayZ server located in the region is now available with improved latency and stability.",
-    "date": "2026-06-20"
-  },
-  {
-    "title": "🧟 Project Zomboid Expansion",
-    "description": "Additional map zones and survival objectives have been added to our featured Project Zomboid server.",
-    "date": "2026-06-19"
-  },
-  {
-    "title": "💰 Double Coin Event",
-    "description": "Earn twice as many coins from missions, events, and daily activities for a limited time.",
-    "date": "2026-06-18"
-  },
-  {
-    "title": "📢 Maintenance Complete",
-    "description": "Scheduled maintenance has been completed successfully and all services are back online.",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "🎁 Summer Rewards Program",
-    "description": "Log in daily during the summer event to claim rewards, boosts, and exclusive cosmetic items.",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "⚡ Faster Downloads Available",
-    "description": "Launcher content delivery has been optimized, resulting in significantly faster update downloads.",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "👥 Referral System Launched",
-    "description": "Invite your friends to the platform and earn bonus rewards when they become active players.",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "🔧 Hotfix 1.1.1 Released",
-    "description": "Fixed several issues reported by the community, including crashes and launcher synchronization problems.",
-    "date": "2026-06-13"
-  },
-  {
-    "title": "🏠 New Safe Zone Added",
-    "description": "A new safe trading zone has been introduced to improve player interactions and community events.",
-    "date": "2026-06-12"
-  },
-  {
-    "title": "📈 Record Player Count",
-    "description": "The platform reached its highest concurrent player count this month. Thank you for your support.",
-    "date": "2026-06-11"
-  },
-  {
-    "title": "❤️ Thank You Survivors",
-    "description": "We appreciate every member of our community. More updates, events, and content are coming soon.",
-    "date": "2026-06-10"
-  }
+{
+"title": "🚀 Launcher v1.1 Released",
+"description": "A major update introducing improved navigation, better performance, and a refreshed user experience throughout the launcher.",
+"date": "2026-06-24"
+},
+{
+"title": "🎉 Double XP Weekend",
+"description": "Join participating servers this weekend and earn double experience points across all supported game modes.",
+"date": "2026-06-23"
+},
+{
+"title": "🛠 Server Browser Improved",
+"description": "The server browser now loads faster and displays additional information such as player counts and server status.",
+"date": "2026-06-22"
+},
+{
+"title": "🏆 New Leaderboard Season",
+"description": "A fresh competitive season has started. Climb the rankings and earn exclusive rewards before the season ends.",
+"date": "2026-06-21"
+},
+{
+"title": "🎁 Daily Rewards Added",
+"description": "Log in every day to receive free rewards including coins, cosmetics, and bonus experience boosts.",
+"date": "2026-06-20"
+},
+{
+"title": "🌍 New DayZ Community Server",
+"description": "A brand-new DayZ server has joined the launcher, featuring custom events and an active community.",
+"date": "2026-06-19"
+},
+{
+"title": "🧟 Project Zomboid Expansion Event",
+"description": "Survivors can now participate in a limited-time event featuring unique loot locations and challenges.",
+"date": "2026-06-18"
+},
+{
+"title": "⚡ Faster Launcher Startup",
+"description": "Startup times have been reduced significantly, helping players get into their favorite servers quicker.",
+"date": "2026-06-17"
+},
+{
+"title": "🔒 Security Improvements",
+"description": "Several backend improvements have been deployed to enhance account security and service stability.",
+"date": "2026-06-16"
+},
+{
+"title": "💰 Coin Bonus Event",
+"description": "Earn 50% more coins from gameplay activities during this week's special bonus event.",
+"date": "2026-06-15"
+},
+{
+"title": "📢 Community Feedback Update",
+"description": "Multiple community-requested improvements have been implemented based on player suggestions.",
+"date": "2026-06-14"
+},
+{
+"title": "🎨 New Profile Customization",
+"description": "Players can now customize their profiles with additional avatars, banners, and account themes.",
+"date": "2026-06-13"
+},
+{
+"title": "🏅 VIP Benefits Expanded",
+"description": "VIP members now receive additional perks including priority queue access and monthly rewards.",
+"date": "2026-06-12"
+},
+{
+"title": "📦 Patch Deployment Complete",
+"description": "The latest launcher patch has been successfully deployed with bug fixes and stability enhancements.",
+"date": "2026-06-11"
+},
+{
+"title": "🔥 Summer Survival Challenge",
+"description": "Compete against other players in a month-long survival challenge for exclusive prizes and recognition.",
+"date": "2026-06-10"
+}
 ]
