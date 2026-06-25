@@ -1,29 +1,38 @@
 [
   {
     "name": "Axon DayZ | PVP Modded",
-    "description": "PVP foucsed server with lots of custom mods and weapons",
+    "description": "Fast-paced PvP server featuring custom weapons, vehicles, traders, base building and quality-of-life mods.",
     "version": "1.29",
-    "mods": "26",
-    "players": "12",
-    "connectip": "127.0.0.1",
-    "connectport": "41414"
+    "mods": "42",
+    "players": "37/80",
+    "connectip": "185.214.164.72",
+    "connectport": "2302"
   },
   {
-    "name": "Axon DayZ | PVP Modded",
-    "description": "PVP foucsed server with lots of custom mods and weapons",
+    "name": "Axon DayZ | PVP Vanilla",
+    "description": "Pure vanilla DayZ experience with official-like gameplay, no gameplay-altering modifications.",
     "version": "1.29",
-    "mods": "26",
-    "players": "12",
-    "connectip": "127.0.0.1",
-    "connectport": "41414"
+    "mods": "0",
+    "players": "24/60",
+    "connectip": "91.223.189.54",
+    "connectport": "2302"
   },
   {
-    "name": "Axon DayZ | PVP Modded",
-    "description": "PVP foucsed server with lots of custom mods and weapons",
+    "name": "Axon DayZ | Vanilla++",
+    "description": "Enhanced vanilla gameplay with balanced quality-of-life improvements, maps and lightweight additions.",
     "version": "1.29",
-    "mods": "26",
-    "players": "12",
-    "connectip": "127.0.0.1",
-    "connectport": "41414"
+    "mods": "12",
+    "players": "51/70",
+    "connectip": "193.176.29.118",
+    "connectport": "2302"
+  },
+  {
+    "name": "Axon Project Zomboid | Serious RP",
+    "description": "Story-driven roleplay server with player-run factions, economy, businesses and immersive character progression.",
+    "version": "42.17",
+    "mods": "18",
+    "players": "28/64",
+    "connectip": "45.146.122.201",
+    "connectport": "16261"
   }
 ]
