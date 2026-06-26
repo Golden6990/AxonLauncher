@@ -26,8 +26,8 @@
     "mods": "0",
     "players": "24/60",
     "gameid": 2,
-    "connectip": "46.245.123.241",
-    "connectport": "22003"
+    "connectip": "1.2.3.4",
+    "connectport": "2302"
   },
   {
     "name": "Axon DayZ | Vanilla++",
@@ -37,6 +37,6 @@
     "players": "51/70",
     "gameid": 2,
     "connectip": "5.42.217.191",
-    "connectport": "22003"
+    "connectport": "2302"
   }
 ]
