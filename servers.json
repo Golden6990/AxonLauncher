@@ -1,6 +1,6 @@
 [
   {
-    "name": "Axon Project Zomboid | Serious RP",
+    "name": "The Walking Dead RP | Serious Role Play",
     "description": "Story-driven roleplay server with player-run factions, economy, businesses and immersive character progression.",
     "version": "42.17",
     "mods": "18",
@@ -20,7 +20,7 @@
     "connectport": "2302"
   },
   {
-    "name": "KIRRRRRR | PVP Vanilla",
+    "name": "Namalsk | PVP Vanilla",
     "description": "Pure vanilla DayZ experience with official-like gameplay, no gameplay-altering modifications.",
     "version": "1.29",
     "mods": "0",
@@ -30,7 +30,7 @@
     "connectport": "2302"
   },
   {
-    "name": "Axon DayZ | Vanilla++",
+    "name": "Chernarus | Vanilla++",
     "description": "Enhanced vanilla gameplay with balanced quality-of-life improvements, maps and lightweight additions.",
     "version": "1.29",
     "mods": "12",
