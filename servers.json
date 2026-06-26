@@ -16,7 +16,7 @@
     "mods": "42",
     "players": "37/80",
     "gameid": 2,
-    "connectip": "192.168.1.103",
+    "connectip": "127.0.0.1",
     "connectport": "2302"
   },
   {
