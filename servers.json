@@ -10,14 +10,14 @@
     "connectport": "16261"
   },
   {
-    "name": "Axon DayZ | PVP Modded",
+    "name": "Axon DayZ | Vanilla Local",
     "description": "Fast-paced PvP server featuring custom weapons, vehicles, traders, base building and quality-of-life mods.",
     "version": "1.29",
     "mods": "42",
     "players": "37/80",
     "gameid": 2,
-    "connectip": "5.135.24.181",
-    "connectport": "22004"
+    "connectip": "192.168.1.103",
+    "connectport": "2302"
   },
   {
     "name": "KIRRRRRR | PVP Vanilla",
