@@ -7,7 +7,8 @@
     "players": "28/64",
     "gameid": 1,
     "connectip": "89.208.216.126",
-    "connectport": "22003"
+    "connectport": "22003",
+    "avatarurl": "https://images.gog-statics.com/997a880a5624334e379dfe5bfc63191f8af379937de97d821c6ccba044899c2a_product_card_v2_mobile_slider_639.jpg"
   },
   {
     "name": "Axon DayZ | Vanilla Local 2",
@@ -17,7 +18,8 @@
     "players": "37/80",
     "gameid": 2,
     "connectip": "127.0.0.1",
-    "connectport": "2302"
+    "connectport": "2302",
+    "avatarurl": "https://store-images.s-microsoft.com/image/apps.57890.14420590094836544.553a0ed0-483a-4252-b13c-3129a3a7337d.ee187d5d-68fc-4302-9813-d25149894d4a"
   },
   {
     "name": "Namalsk | PVP Vanilla",
@@ -27,7 +29,8 @@
     "players": "24/60",
     "gameid": 2,
     "connectip": "5.57.39.254",
-    "connectport": "2302"
+    "connectport": "2302",
+    "avatarurl": "https://store-images.s-microsoft.com/image/apps.57890.14420590094836544.553a0ed0-483a-4252-b13c-3129a3a7337d.ee187d5d-68fc-4302-9813-d25149894d4a"
   },
   {
     "name": "Chernarus | Vanilla++",
@@ -37,6 +40,7 @@
     "players": "51/70",
     "gameid": 2,
     "connectip": "5.42.217.191",
-    "connectport": "2302"
+    "connectport": "2302",
+    "avatarurl": "https://store-images.s-microsoft.com/image/apps.57890.14420590094836544.553a0ed0-483a-4252-b13c-3129a3a7337d.ee187d5d-68fc-4302-9813-d25149894d4a"
   }
 ]
