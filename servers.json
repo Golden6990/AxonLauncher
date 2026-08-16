@@ -2,6 +2,7 @@
   {
     "name": "The Walking Dead RP | Serious Role Play",
     "description": "Story-driven roleplay server with player-run factions, economy, businesses and immersive character progression.",
+    "mapname": "ss",
     "version": "42.17",
     "mods": "18",
     "players": "28/64",
@@ -13,6 +14,7 @@
   {
     "name": "Axon DayZ | Vanilla Local 2",
     "description": "Fast-paced PvP server featuring custom weapons, vehicles, traders, base building and quality-of-life mods.",
+    "mapname": "Livonia",
     "version": "1.29",
     "mods": "42",
     "players": "37/80",
@@ -24,6 +26,7 @@
   {
     "name": "Namalsk | PVP Vanilla",
     "description": "Pure vanilla DayZ experience with official-like gameplay, no gameplay-altering modifications.",
+    "mapname": "Namalsk",
     "version": "1.29",
     "mods": "0",
     "players": "24/60",
@@ -35,6 +38,7 @@
   {
     "name": "Chernarus | Vanilla++",
     "description": "Enhanced vanilla gameplay with balanced quality-of-life improvements, maps and lightweight additions.",
+    "mapname": "Chernarus",
     "version": "1.29",
     "mods": "12",
     "players": "51/70",
