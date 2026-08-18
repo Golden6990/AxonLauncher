@@ -1,14 +1,14 @@
 [
   {
-    "name": "The Walking Dead RP | Serious Role Play",
+    "name": "Axon PZ | Role Play",
     "description": "Story-driven roleplay server with player-run factions, economy, businesses and immersive character progression.",
     "mapname": "ss",
-    "version": "42.17",
-    "mods": "18",
-    "players": "28/64",
+    "version": "42.20.1",
+    "mods": "Vanilla",
+    "players": "0/0",
     "gameid": 1,
-    "connectip": "89.208.216.126",
-    "connectport": "22003",
+    "connectip": "81.12.50.245",
+    "connectport": "16261",
     "avatarurl": "https://uploadkon.ir/uploads/9cb113_26ourlogo.png"
   },
   {
