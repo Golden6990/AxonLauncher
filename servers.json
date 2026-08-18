@@ -13,38 +13,14 @@
   },
   {
     "name": "Axon DayZ | Vanilla Local 2",
-    "description": "Fast-paced PvP server featuring custom weapons, vehicles, traders, base building and quality-of-life mods.",
-    "mapname": "Livonia",
-    "version": "1.29",
-    "mods": "42",
-    "players": "37/80",
-    "gameid": 2,
-    "connectip": "127.0.0.1",
-    "connectport": "2302",
-    "avatarurl": "https://mp1st.com/wp-content/uploads/2026/07/dayz-july-2048x1152.jpg"
-  },
-  {
-    "name": "Namalsk | PVP Vanilla",
     "description": "Pure vanilla DayZ experience with official-like gameplay, no gameplay-altering modifications.",
-    "mapname": "Namalsk",
-    "version": "1.29",
-    "mods": "0",
-    "players": "24/60",
-    "gameid": 2,
-    "connectip": "5.57.39.254",
-    "connectport": "2302",
-    "avatarurl": "https://mp1st.com/wp-content/uploads/2025/06/DayZ-Patch-1.28-image-2-2048x1152.jpg"
-  },
-  {
-    "name": "Chernarus | Vanilla++",
-    "description": "Enhanced vanilla gameplay with balanced quality-of-life improvements, maps and lightweight additions.",
     "mapname": "Chernarus",
     "version": "1.29",
-    "mods": "12",
-    "players": "51/70",
+    "mods": "42",
+    "players": "60/60",
     "gameid": 2,
-    "connectip": "5.42.217.191",
+    "connectip": "81.12.50.245",
     "connectport": "2302",
-    "avatarurl": "https://store-images.s-microsoft.com/image/apps.55513.14420590094836544.553a0ed0-483a-4252-b13c-3129a3a7337d.9f8eec47-186b-4a10-bb72-422a6f3c36f0?q=90&w=480&h=270"
+    "avatarurl": "https://mp1st.com/wp-content/uploads/2026/07/dayz-july-2048x1152.jpg"
   }
 ]
