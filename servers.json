@@ -1,26 +1,14 @@
 [
   {
-    "name": "Axon PZ | Role Play",
-    "description": "Story-driven roleplay server with player-run factions, economy, businesses and immersive character progression.",
-    "mapname": "ss",
-    "version": "42.20.1",
-    "mods": "Vanilla",
-    "players": "20/20",
-    "gameid": 1,
-    "connectip": "81.12.50.245",
-    "connectport": "16261",
-    "avatarurl": "https://uploadkon.ir/uploads/9cb113_26ourlogo.png"
-  },
-  {
-    "name": "Axon DayZ | Vanilla",
-    "description": "Pure vanilla DayZ experience with official-like gameplay, no gameplay-altering modifications.",
+    "name": "Axon DayZ | Chernarus PVP",
+    "description": "Zero vanilla. Max chaos. Heavy mods, 10x loot, and relentless PvP — skip the survival, get straight to the fighting.",
     "mapname": "Chernarus",
-    "version": "1.29",
-    "mods": "42",
-    "players": "60/60",
+    "version": "1.29 (Latest)",
+    "mods": "14 (13.5 GB)",
+    "players": "32/32",
     "gameid": 2,
     "connectip": "81.12.50.245",
     "connectport": "2302",
-    "avatarurl": "https://mp1st.com/wp-content/uploads/2026/07/dayz-july-2048x1152.jpg"
+    "avatarurl": "https://uploadkon.ir/uploads/9cb113_26ourlogo.png"
   }
 ]
