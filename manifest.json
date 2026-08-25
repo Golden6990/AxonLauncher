@@ -1,0 +1,20 @@
+{
+  "Version": "1.0.0",
+  "Files": [
+    {
+      "Path": "Game/DayZ.exe",
+      "Size": 123456789,
+      "Hash": "A3F7C2E91B8D1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234"
+    },
+    {
+      "Path": "Game/@CF/CF.pbo",
+      "Size": 5242880,
+      "Hash": "8B1A9953C4611296A827ABF8C47804D7F9B8F1D5C6E7A8B9C0D1E2F3A4B5C6D7"
+    },
+    {
+      "Path": "Game/@BaseBuildingPlus/BBP.pbo",
+      "Size": 10485760,
+      "Hash": "F1E2D3C4B5A697887766554433221100FFEEDDCCBBAA99887766554433221100"
+    }
+  ]
+}
